@@ -9,7 +9,7 @@ class User = {
 	self.school = 'saxion'
 	self.pronouns = 'he/him',
 	self.location = 'deventer, nl',
-	self.technologies = ['python', 'javascript', 'html', 'css', 'php'],
+	self.technologies = ['python', 'javascript', 'html', 'css'],
 	self.interested = ['game dev', 'oop', 'web design']
 	self.hobbies = ['cooking', 'gaming', 'music production']
 }
