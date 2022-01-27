@@ -1,10 +1,9 @@
-
-<img align="left" height="225px" alt="picrew icon (https://picrew.me/image_maker/457566)" src="457566_bG4ja9rE.png">
+<img align="left" height="230px" alt="picrew icon (https://picrew.me/image_maker/457566)" src="457566_bG4ja9rE.png">
 
 ```python
 
 class User = {
-	self.name = 'rickey h.',	
+	self.name = 'rik h.',	
 	self.occupation = ['software developer', 'student'],
 	self.pronouns = 'he/him',
 	self.location = 'deventer, nl',
@@ -13,3 +12,4 @@ class User = {
 	self.hobbies = ['cooking', 'gaming', 'music production']
 }
 ```
+
