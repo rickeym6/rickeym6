@@ -1,7 +1,5 @@
-
-
-<img align="left" height="233" width="233" alt="picrew icon (https://picrew.me/image_maker/457566)" src="457566_bG4ja9rE.png">
-
+<div height="250px" markdown="1">
+	<img align="left" height="250px" alt="picrew icon (https://picrew.me/image_maker/457566)" src="457566_bG4ja9rE.png">
 
 ```python
 
@@ -16,3 +14,4 @@ class User = {
 	self.hobbies = ['cooking', 'gaming', 'music production']
 }
 ```
+</div>
